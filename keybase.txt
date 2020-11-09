@@ -1,0 +1,79 @@
+==================================================================
+https://keybase.io/ashutoshmehra
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ashutoshmehra.net
+  * I am ashutoshmehra (https://keybase.io/ashutoshmehra) on keybase.
+  * I have a public key with fingerprint 366E 3FD5 75AC 22ED 9F5C  585D BB39 438B E008 71D6
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01018b1145263f1c0b7c2f7696562e33de0b4ba5e113afd05efb73226574832720c40a",
+      "fingerprint": "366e3fd575ac22ed9f5c585dbb39438be00871d6",
+      "host": "keybase.io",
+      "key_id": "bb39438be00871d6",
+      "kid": "01018b1145263f1c0b7c2f7696562e33de0b4ba5e113afd05efb73226574832720c40a",
+      "uid": "be6f4895335a118e85dce00523601519",
+      "username": "ashutoshmehra"
+    },
+    "merkle_root": {
+      "ctime": 1604941977,
+      "hash_meta": "92ff0f9c97203000b0b8b298093cdc96cba7095661463c0b3d79b77d9232e303",
+      "seqno": 18065025
+    },
+    "revoke": {
+      "sig_ids": [
+        "9eafac7de7f80b30361a3484591b492f1301be266589c14fd65f44bd0bc6e3d10f"
+      ]
+    },
+    "service": {
+      "hostname": "ashutoshmehra.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1604941980,
+  "expire_in": 157680000,
+  "prev": "55fdec4ef7d74aecaeba2abe7b5781317da87d5c2ea234c85ca2a3ab900a3184",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtU1toHUUYPtEkxGpDSm0VjFUXtFVCnNnZuR1SK8ai6EMeijSi6WEu/+YsJzl7
+urs5TQihtRDRFsTbSxQJ1Fa0xkLxQiRQbayX0hp9aUuKlyrENmItYvH64my0INJH
+n5aZ+W7/NztPL7+y0NIwI7t3n2nZerLh2KIulF4bfnfU07Ed8YqjXgWWPjBgIc1K
+lch6RQ9hhIXGOKA+IyE2SHPjh5xJRpkPhFhAOtCKAsZEhRZRCDUnvs8oDwTxuY9M
+gJTX4YVRtR+SWhJVMydLGAMSWsqpMr4PVobUUEGt1kQGRGhASHBsmSOW4zRnuHBa
+pdAZxW7PLUpL8S6D/59zD/3tAywMhKSEUIWxABfVOE/qE4YwxTIHppBU1SA4tErL
+Q1mclgehnChvrMMbhKQyAKUkjrO8YZNFOQ4zFMgAS87dlI5TGoRMObr0wxCF0kiX
+giCENNJC+1IgSYw1khmtOJKUMRww4iYjlkvNuZU+caMh4sKksLUaOweBGEU+dRES
+qMcVyN3TqN+Vl3rF93c+4klQoTLcAg+FU0KEYUUCEVCJdeCCYIKwBp8xKqTBQWgZ
+DYNAW6SNu0GLUej1jeV+ST0yS/L5fV2uh84qZC5ZLYmz2MQD7ricZbW0mPeTjdRy
+/DbQpX+USjqqWvfLOEYdkjSKq24ah/xPdQJ1eDBcixIoRTmCciZcYyj3gbqTpDS0
+YAIIueWBAqNAK19p4JpygQnmVgluqfFB+SQwghp3TJSWCCmCRfCvLonLqfqdpiuw
+qrKhBLyxZU82kMZCQ0vhxtW3NLLqhhNDU975yUd7+y49s6Yr8jdWWHZV26WdJ+Za
+Coebfzt+/fyhhZ/GP1p87teJjU/teGh/26qb1uC+Ozfev+G+mrm2/baLR8uFkb3F
+/enXethbNVXvu/Dtm5/1jL5Nz9d6127u6R3f8d7J6TnxuI1n29fc9d36F/thdnZ8
+3TWPnS7WHzx8rru9+UhN1HtajiwuHNhy3b6uiZXPXli76cTMJ5taN//xcWXPgQAv
+n9p+68HXnyl0H4zmP3159dVbVu7Jfmivnr0IXc2TPx7btuLLgZu/GW86NfH5uecX
+y2dbW9e3P0BWNM192HvqDnbDV698cHq47aVDu++5e9089I1MxzPbv39j9q3GV3//
++fZ3dt3bNTrZqtu69411/vLw0WxXZXqhdefxP7/Ye+aF0b8A
+=z0eK
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ashutoshmehra
+
+==================================================================
